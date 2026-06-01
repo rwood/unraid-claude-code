@@ -7,7 +7,7 @@ Installs [Claude Code](https://github.com/anthropics/claude-code) CLI on Unraid.
 ## Install
 
 ```bash
-plugin install https://raw.githubusercontent.com/brianpugh/unraid-claude-code/main/claude-code.plg
+plugin install https://raw.githubusercontent.com/rwood/unraid-claude-code/main/claude-code.plg
 ```
 
 ## Usage

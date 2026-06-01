@@ -1,9 +1,9 @@
 <?xml version='1.0' standalone='yes'?>
 
 <PLUGIN name="claude-code" author="brianpugh" version="2026.03.06"
-        pluginURL="https://raw.githubusercontent.com/brianpugh/unraid-claude-code/main/claude-code.plg"
+        pluginURL="https://raw.githubusercontent.com/rwood/unraid-claude-code/main/claude-code.plg"
         supportURL="https://forums.unraid.net/topic/197615-plugin-claude-code/"
-        icon="https://raw.githubusercontent.com/brianpugh/unraid-claude-code/main/claude-icon.png"
+        icon="https://raw.githubusercontent.com/rwood/unraid-claude-code/main/claude-icon.png"
         min="6.12.0">
 
 <CHANGES>
@@ -29,7 +29,7 @@ mkdir -p /usr/local/emhttp/plugins/claude-code/icons
 
 <!-- Download icon -->
 <FILE Name="/usr/local/emhttp/plugins/claude-code/icons/claude-code.png">
-<URL>https://raw.githubusercontent.com/brianpugh/unraid-claude-code/main/claude-icon.png</URL>
+<URL>https://raw.githubusercontent.com/rwood/unraid-claude-code/main/claude-icon.png</URL>
 </FILE>
 
 <!-- Configuration file (only created if not exists, to preserve user settings across reinstalls) -->
